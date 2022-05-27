@@ -15,13 +15,13 @@ It was a intersting to SQL in this ReadMe file I'm going to clear what we I have
 1.3 In order to retrive without duplicated rows: SELECT DISTINCT column <br />
 1.4 Also we can use ``GROUP BY, ORDER BY`` <br />
 Example: <br />
-```(SELECT column, another_column, …```
-```FROM mytable ```
-```WHERE condition(s) ```
-```ORDER BY column ASC/DESC;)```  
+```(SELECT column, another_column, …``` <br />
+```FROM mytable ``` <br />
+```WHERE condition(s) ``` <br />
+```ORDER BY column ASC/DESC;)```  <br /> 
 1.4.1 iT's commonly used with the ORDER BY clause are the LIMIT and OFFSET clauses <br />
 Eample: <br />
-```(SELECT column, another_column, … ```<br />```
+```(SELECT column, another_column, … ```<br />
 ```FROM mytable ```<br />
 ```WHERE condition(s) ```<br />
 ```ORDER BY column ASC/DESC ```<br />
