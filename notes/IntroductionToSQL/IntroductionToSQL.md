@@ -1,6 +1,6 @@
-**Introduction to SQL**
+# **Introduction to SQL**
 
-It was a intersting to SQL in this ReadMe file I'm going to clear what we I have learned from "SQL Bolt tutorials"<br />
+### It was a intersting to SQL in this ReadMe file I'm going to clear what we I have learned from "SQL Bolt tutorials" <br />
 
 1 The defintion of SQL: s a standardized programming language that is used to manage relational databases and perform various operations on the data in them. <br />
 1.1 In order to retrive data from database we have many option based on the perpose using SELECT
