@@ -2,15 +2,15 @@ Introduction to SQL
 
 It was a intersting to SQL in this ReadMe file I'm going to clear what we I have learned from "SQL Bolt tutorials"
 
-1 The defintion of SQL: s a standardized programming language that is used to manage relational databases and perform various operations on the data in them.
+1 The defintion of SQL: s a standardized programming language that is used to manage relational databases and perform various operations on the data in them. <br />
 1.1 In order to retrive data from database we have many option based on the perpose using SELECT
-    examples: 
-    1.1.1 In order to retrive Colomn: 
-    ```SELECT column, another_column... From TableName```
-    1.1.2 In order to retrive the whole Table: SELECT * From TableName 
-1.2 In order to retrive data with conditons data from database we can use WHERE
-    examples:
-    1.2.1 SELECT * From TableName WHERE List="LOL"(Condition)
+    examples: <br />
+    1.1.1 In order to retrive Colomn: <br />
+    ```SELECT column, another_column... From TableName```<br />
+    1.1.2 In order to retrive the whole Table: SELECT * From TableName <br />
+1.2 In order to retrive data with conditons data from database we can use WHERE<br />
+    examples:<br />
+    1.2.1 SELECT * From TableName WHERE List="LOL"(Condition)<br />
     1.2.2 SELECT * From TableName WHERE List="LOL"(Condition) AND another Condition 
 1.3 In order to retrive without duplicated rows: SELECT DISTINCT column
 1.4 Also we can use GROUP BY, ORDER BY 
