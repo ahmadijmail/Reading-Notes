@@ -1,4 +1,4 @@
-Introduction to SQL
+**Introduction to SQL**
 
 It was a intersting to SQL in this ReadMe file I'm going to clear what we I have learned from "SQL Bolt tutorials"<br />
 
@@ -7,25 +7,25 @@ It was a intersting to SQL in this ReadMe file I'm going to clear what we I have
     examples: <br />
     1.1.1 In order to retrive Colomn: <br />
     ```SELECT column, another_column... From TableName```<br />
-    1.1.2 In order to retrive the whole Table: SELECT * From TableName <br />
+    1.1.2 In order to retrive the whole Table: ```SELECT * From TableName``` <br />
 1.2 In order to retrive data with conditons data from database we can use WHERE<br />
     examples:<br />
-    1.2.1 SELECT * From TableName WHERE List="LOL"(Condition)<br />
-    1.2.2 SELECT * From TableName WHERE List="LOL"(Condition) AND another Condition <br />
+    1.2.1 ```SELECT * From TableName WHERE List="LOL"(Condition)```<br />
+    1.2.2 ```SELECT * From TableName WHERE List="LOL"(Condition) AND another Condition``` <br />
 1.3 In order to retrive without duplicated rows: SELECT DISTINCT column <br />
-1.4 Also we can use GROUP BY, ORDER BY <br />
+1.4 Also we can use ``GROUP BY, ORDER BY`` <br />
 Example: <br />
-(SELECT column, another_column, … <br />
-FROM mytable <br />
-WHERE condition(s) <br />
-ORDER BY column ASC/DESC;)  <br />
+```(SELECT column, another_column, …```
+```FROM mytable ```
+```WHERE condition(s) ```
+```ORDER BY column ASC/DESC;)```  
 1.4.1 iT's commonly used with the ORDER BY clause are the LIMIT and OFFSET clauses <br />
 Eample: <br />
-(SELECT column, another_column, … <br />
-FROM mytable <br />
-WHERE condition(s) <br />
-ORDER BY column ASC/DESC <br />
-LIMIT num_limit OFFSET num_offset;) <br />
+```(SELECT column, another_column, … ```<br />```
+```FROM mytable ```<br />
+```WHERE condition(s) ```<br />
+```ORDER BY column ASC/DESC ```<br />
+```LIMIT num_limit OFFSET num_offset;)``` <br />
 
 1.5 As we knew we commonly deal with multiple Tables, and we have a query called "JOIN"
 and the first type of JOIN we gonna learn is "INNER JOIN", also we can combine 2 rows from 2 defferent tables with same key using "ON mytable.id = another_table.id" 
