@@ -5,7 +5,8 @@ It was a intersting to SQL in this ReadMe file I'm going to clear what we I have
 1 The defintion of SQL: s a standardized programming language that is used to manage relational databases and perform various operations on the data in them.
 1.1 In order to retrive data from database we have many option based on the perpose using SELECT
     examples: 
-    1.1.1 In order to retrive Colomn: ```SELECT column, another_column... From TableName```
+    1.1.1 In order to retrive Colomn: 
+    ```SELECT column, another_column... From TableName```
     1.1.2 In order to retrive the whole Table: SELECT * From TableName 
 1.2 In order to retrive data with conditons data from database we can use WHERE
     examples:
