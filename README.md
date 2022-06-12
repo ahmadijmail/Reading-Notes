@@ -12,3 +12,5 @@ As we know people forget what they have learned quickly, So in order to memorize
 - ### [LinkedLists ](./notedNew/LinkedLists/LinkedLists.md)
 - ### [Data-Modeling ](./notedNew/Data-Modeling/README.md)
 - ### [Associations Sequelize ](./notedNew/Associations/Associations.md)
+
+- ### [Securing ](./notedNew/Securing%20Passwords/)
