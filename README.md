@@ -5,7 +5,7 @@ As we know people forget what they have learned quickly, So in order to memorize
 
 ~~Learning JS IS Hard~~
 - ### [Access Control (ACL) ](./notedNew/Access%20Control%20(ACL)/)
-- ### [Bearer Authorization ](./notedNew/Bearer%20Authorization/Bearer%20Authorization.html) 
+- ### [Bearer Authorization ](./notedNew/Bearer%20Authorization/Bearer%20Authorization.md) 
 - ### [SQL ](./notedNew/IntroductionToSQL/IntroductionToSQL.md) <br> 
 - ### [CLI ](./notedNew/Commands/CommandLines.md)
 - ### [Typing ](./notedNew/TypingPractice/typingPractice.md)
