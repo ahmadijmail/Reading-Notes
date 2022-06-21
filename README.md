@@ -4,6 +4,7 @@
 As we know people forget what they have learned quickly, So in order to memorize everything quickly I created this Repo, which will has a summery of each thing I will learn.
 
 ~~Learning JS IS Hard~~
+- ### [Stacks and Queues](./notedNew/Stacks%20and%20Queues/)
 - ### [Access Control (ACL) ](./notedNew/Access%20Control%20(ACL)/)
 - ### [Bearer Authorization ](./notedNew/Bearer%20Authorization/Bearer%20Authorization.md) 
 - ### [SQL ](./notedNew/IntroductionToSQL/IntroductionToSQL.md) <br> 
