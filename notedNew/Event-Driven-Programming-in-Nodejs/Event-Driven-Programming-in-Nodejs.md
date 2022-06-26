@@ -43,6 +43,5 @@ chatRoomEvents.on('userJoined', userJoined);
 ## Object Oriented Programming + Event-Driven Programming
 
 
-```
+
 Imagine we’re building a mail application. We might have an object whose sole purpose is to process the incoming and outgoing mail messages for our client. This object would contain all of its own behavioral functions. We might have a sendMail function that delivers our mail to a server. We might also have a receiveMail function that tells the server to deliver us any new mail it has for us. We’ll call the object responsible for these server interactions our Mailbox.
-```
