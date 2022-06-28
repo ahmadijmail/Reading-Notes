@@ -5,6 +5,8 @@ As we know people forget what they have learned quickly, So in order to memorize
 
 ~~Learning JS IS Hard~~
 
+- ### [Message Queues](./notedNew/Message-Queues/Message-Queues.md)
+- ### [Socket.io](./notedNew/Socket.io/Socket.io.md)
 - ### [Event-Driven-Programming node JS](./notedNew/Event-Driven-Programming-in-Nodejs/Event-Driven-Programming-in-Nodejs.md)
 - ### [Stacks-and-Queues](./notedNew/Stacks-and-Queues/Stacks-and-Queues.md)
 - ### [Access Control (ACL) ](./notedNew/Access%20Control%20(ACL)/)
