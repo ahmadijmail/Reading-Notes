@@ -4,7 +4,7 @@
 As we know people forget what they have learned quickly, So in order to memorize everything quickly I created this Repo, which will has a summery of each thing I will learn.
 
 ~~Learning JS IS Hard~~
-
+- ### [AWS-Events](./notedNew/AWS-Events/AWS-Events.md)
 - ### [AWS](./notedNew/AWS/AWS.md)
 - ### [Trees](./notedNew/Trees/Trees.md)
 - ### [Message Queues](./notedNew/Message-Queues/Message-Queues.md)
