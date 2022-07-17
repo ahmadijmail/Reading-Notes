@@ -5,6 +5,7 @@ As we know people forget what they have learned quickly, So in order to memorize
 
 ~~Learning JS IS Hard~~
 
+- ### [AWS-Events](./notedNew/AWS-API-Dynamo-Lambda/AWS-API-Dynamo-Lambda.md)
 - ### [AWS-Events](./notedNew/AWS-Events/AWS-Events.md)
 - ### [AWS-S3-and-Lambda](./notedNew/AWS-S3-and-Lambda/AWS-S3-and-Lambda.md)
 - ### [AWS](./notedNew/AWS/AWS.md)
