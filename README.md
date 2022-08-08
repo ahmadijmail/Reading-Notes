@@ -5,24 +5,24 @@ As we know people forget what they have learned quickly, So in order to memorize
 
 ~~Learning JS IS Hard~~
 
-- ### [AWS-API-Dynamo-Lambda](./notedNew/AWS-API-Dynamo-Lambda/AWS-API-Dynamo-Lambda.md)
-- ### [AWS-Events](./notedNew/AWS-Events/AWS-Events.md)
-- ### [AWS-S3-and-Lambda](./notedNew/AWS-S3-and-Lambda/AWS-S3-and-Lambda.md)
-- ### [AWS](./notedNew/AWS/AWS.md)
-- ### [Trees](./notedNew/Trees/Trees.md)
-- ### [Message Queues](./notedNew/Message-Queues/Message-Queues.md)
-- ### [Socket.io](./notedNew/Socket.io/Socket.io.md)
-- ### [Event-Driven-Programming node JS](./notedNew/Event-Driven-Programming-in-Nodejs/Event-Driven-Programming-in-Nodejs.md)
-- ### [Stacks-and-Queues](./notedNew/Stacks-and-Queues/Stacks-and-Queues.md)
-- ### [Access Control (ACL) ](./notedNew/Access%20Control%20(ACL)/)
-- ### [Bearer Authorization ](./notedNew/Bearer%20Authorization/Bearer%20Authorization.md) 
-- ### [SQL ](./notedNew/IntroductionToSQL/IntroductionToSQL.md) <br> 
-- ### [CLI ](./notedNew/Commands/CommandLines.md)
-- ### [Typing ](./notedNew/TypingPractice/typingPractice.md)
-- ### [TDD ](./notedNew/TDD/TDD.md)
-- ### [Express REST API ](./notedNew/Express%20REST%20API/README.MD)
-- ### [LinkedLists ](./notedNew/LinkedLists/LinkedLists.md)
-- ### [Data-Modeling ](./notedNew/Data-Modeling/README.md)
-- ### [Associations Sequelize ](./notedNew/Associations/Associations.md)
+- ### [AWS-Events](./BackEnd/AWS-Events/AWS-Events.md)
+- ### [AWS](./BackEnd/AWS/AWS.md)
+- ### [Trees](./BackEnd/Trees/Trees.md)
+- ### [Message Queues](./BackEnd/Message-Queues/Message-Queues.md)
+- ### [Socket.io](./BackEnd/Socket.io/Socket.io.md)
+- ### [Event-Driven-Programming node JS](./BackEnd/Event-Driven-Programming-in-Nodejs/Event-Driven-Programming-in-Nodejs.md)
+- ### [Stacks-and-Queues](./BackEnd/Stacks-and-Queues/Stacks-and-Queues.md)
+- ### [Access Control (ACL) ](./BackEnd/Access%20Control%20(ACL)/)
+- ### [Bearer Authorization ](./BackEnd/Bearer%20Authorization/Bearer%20Authorization.md) 
+- ### [SQL ](./BackEnd/IntroductionToSQL/IntroductionToSQL.md) <br> 
+- ### [CLI ](./BackEnd/Commands/CommandLines.md)
+- ### [Typing ](./BackEnd/TypingPractice/typingPractice.md)
+- ### [TDD ](./BackEnd/TDD/TDD.md)
+- ### [Express REST API ](./BackEnd/Express%20REST%20API/README.MD)
+- ### [LinkedLists ](./BackEnd/LinkedLists/LinkedLists.md)
+- ### [Data-Modeling ](./BackEnd/Data-Modeling/README.md)
+- ### [Associations Sequelize ](./BackEnd/Associations/Associations.md)
+- ### [Securing ](./BackEnd/Securing%20Passwords/)
 
-- ### [Securing ](./notedNew/Securing%20Passwords/)
+
+
