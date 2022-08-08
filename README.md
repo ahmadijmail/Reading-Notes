@@ -4,6 +4,8 @@
 As we know people forget what they have learned quickly, So in order to memorize everything quickly I created this Repo, which will has a summery of each thing I will learn.
 
 ~~Learning JS IS Hard~~
+
+- ### [Component Based UI](./FrondEnd/Component%20Based%20UI/Component-Based-UI.md)
 - ### [AWS-Events](./BackEnd/AWS-Events/AWS-Events.md)
 - ### [AWS](./BackEnd/AWS/AWS.md)
 - ### [Trees](./BackEnd/Trees/Trees.md)
