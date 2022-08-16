@@ -8,6 +8,8 @@ As we know people forget what they have learned quickly, So in order to memorize
 
 # Frond End Reading 
 
+
+- ### [AdvancedStatewithReducers](./FrondEnd/AdvancedStatewithReducers/AdvancedStatewithReducers.md)
 - ### [useEffect](./FrondEnd/useEffect/useEffect.md)
 - ### [Hook](./FrondEnd/useState/useState.md)
 - ### [Component Based UI](./FrondEnd/Component%20Based%20UI/Component-Based-UI.md)
