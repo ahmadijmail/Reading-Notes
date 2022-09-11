@@ -8,6 +8,7 @@ As we know people forget what they have learned quickly, So in order to memorize
 
 # Frond End Reading 
 
+- ### [Redux-Asynchronous Actions](./FrondEnd/Redux%20-%20Asynchronous-Actions/Redux%20-%20Asynchronous-Actions.md)
 - ### [loginandAuth](./FrondEnd/loginandAuth/loginandAuth.md)
 - ### [DynamicAPIServer](./FrondEnd/Dynamic%20API%20Server/DynamicAPIServer.md)
 - ### [Context-API-Behavior](./FrondEnd/Context%20API%20-%20Behaviors/Context%20API%20-%20Behaviors.md)
