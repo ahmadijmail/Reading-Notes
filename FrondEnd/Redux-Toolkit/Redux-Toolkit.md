@@ -37,5 +37,3 @@ createSlice(): accepts an object of reducer functions, a slice name, and an init
 
 createAsyncThunk: accepts an action type string and a function that returns a promise, and generates a thunk that dispatches pending/fulfilled/rejected action types based on that promise
 
-createEntityAdapter: generates a set of reusable reducers and selectors to manage normalized data in the store
-The createSelector utility from the Reselect library, re-exported for ease of use.
